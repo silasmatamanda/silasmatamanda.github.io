@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
+title: Sailas H. Matamanda # your name (or website title) here
 logo: "/images/Photo0553.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  First description
+  <br>Data Scientist / Machine Learning Engineer <br>
+  Second description
+  <br>Data Scientist / Machine Learning Engineer with 8+ years experience using a variety of data analysis methods, building and implementing models, using/creating machine learning algorithms, and creating/running simulations to drive  successful business solutions using data-based insights. 
+ <br>
+  <a href="https://www.linkedin.com/in/sailas-matamanda-227b69225/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
