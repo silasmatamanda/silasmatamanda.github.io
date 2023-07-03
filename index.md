@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[House Prices predictions ](/sample_page)
 <img src="images/df97.png?raw=true"/>
 
 ---
