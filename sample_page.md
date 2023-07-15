@@ -18,16 +18,19 @@
 <img src="images/df21_confusion.png?raw=true"/><img src="images/df21_confusion2.png?raw=true"/>
 
 
+**Customer Segmentation in the US:** In this project I built a k-means model to cluster US consumers into groups. I also used principal component analysis (PCA) for data visualization, and created an interactive dashboard with Plotly Dash.
+[View Code on Kaggle](https://www.kaggle.com/code/silasmatamanda/ames-house-price-predictions/).
+
+<img src="images/df23_cluster.png?raw=true"/>
+
+
 **Stock Price Prediction Using LSTM:** Here I Used Keras to build a LSTM to accurately predict stock prices of a financial firm using historical closing price and trading volume and visualize both the predicted price values over time and the optimal parameters for the model. This project utilized Deep Learning models, Long-Short Term Memory (LSTM) and Neural Network algorithm, to make predictions. 
 [View Code on Kaggle](https://www.kaggle.com/code/silasmatamanda/ames-house-price-predictions/).
 
 <img src="images/df97.png?raw=true"/>
 
 
-**Customer Segmentation in the US:** In this project I built a k-means model to cluster US consumers into groups. I also used principal component analysis (PCA) for data visualization, and created an interactive dashboard with Plotly Dash.
-[View Code on Kaggle](https://www.kaggle.com/code/silasmatamanda/ames-house-price-predictions/).
 
-<img src="images/df23_cluster.png?raw=true"/>
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
