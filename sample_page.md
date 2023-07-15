@@ -12,6 +12,23 @@
 <img src="images/df20.png?raw=true"/>
 
 
+**Bankruptcy in Poland:** This project was all about building random forest and gradient boosting models to predict whether a company will go bankrupt. We navigated the Linux command line, addressed imbalanced data through resampling, and considered the impact of performance metrics precision and recall.
+[View Code on Kaggle](https://www.kaggle.com/code/silasmatamanda/ames-house-price-predictions/).
+
+<img src="images/df97.png?raw=true"/>
+
+
+**Stock Price Prediction Using LSTM:** Used Keras to build a LSTM to accurately predict stock prices of a financial firm using historical closing price and trading volume and visualize both the predicted price values over time and the optimal parameters for the model. This project utilized Deep Learning models, Long-Short Term Memory (LSTM) and Neural Network algorithm, to make predictions. 
+[View Code on Kaggle](https://www.kaggle.com/code/silasmatamanda/ames-house-price-predictions/).
+
+<img src="images/df97.png?raw=true"/>
+
+
+**Customer Segmentation in the US:** In this project we built a k-means model to cluster US consumers into groups. We used principal component analysis (PCA) for data visualization, and created an interactive dashboard with Plotly Dash.
+[View Code on Kaggle](https://www.kaggle.com/code/silasmatamanda/ames-house-price-predictions/).
+
+<img src="images/df97.png?raw=true"/>
+
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
