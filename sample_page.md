@@ -7,9 +7,9 @@
 
 
 **Air quality in Seoul:** In this project I built an ARMA time-series model to predict particulate matter levels in Seoul, South Korea. I also improved model performance through hyperparameter tuning.
-[View Code on Kaggle](https://www.kaggle.com/code/silasmatamanda/ames-house-price-predictions/).
+[View Code on Kaggle](https://www.kaggle.com/silasmatamanda/time-series-prediction-seoul-air-quality/).
 
-<img src="images/df97.png?raw=true"/>
+<img src="images/df20.png?raw=true"/>
 
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
