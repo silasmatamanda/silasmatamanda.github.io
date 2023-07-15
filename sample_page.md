@@ -24,7 +24,7 @@
 <img src="images/df97.png?raw=true"/>
 
 
-**Customer Segmentation in the US:** In this project we built a k-means model to cluster US consumers into groups. We used principal component analysis (PCA) for data visualization, and created an interactive dashboard with Plotly Dash.
+**Customer Segmentation in the US:** In this project I built a k-means model to cluster US consumers into groups. I also used principal component analysis (PCA) for data visualization, and created an interactive dashboard with Plotly Dash.
 [View Code on Kaggle](https://www.kaggle.com/code/silasmatamanda/ames-house-price-predictions/).
 
 <img src="images/df97.png?raw=true"/>
