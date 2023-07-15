@@ -1,6 +1,7 @@
-## This can be your internal website page / project page
+## Ames House Price Predictions
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** 1.	This project involved using Ames Iowa Housing Dataset to build a linear regression model to predict apartment prices. It entailed importing and cleaning data from a CSV file, building data visualizations, and examining the relationship between variables using correlation. I also created a data pipeline to impute missing values and encode categorical features, and improved model performance by reducing overfitting.
+
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
