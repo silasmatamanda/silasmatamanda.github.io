@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [House Prices predictions ](/sample_page)
 <img src="images/df97.png?raw=true"/>
