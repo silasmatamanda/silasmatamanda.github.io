@@ -3,6 +3,8 @@
 **Ames House Price Predictions:** This project involved using Ames Iowa Housing Dataset to build a linear regression model to predict apartment prices. It entailed importing and cleaning data from a CSV file, building data visualizations, and examining the relationship between variables using correlation. I also created a data pipeline to impute missing values and encode categorical features, and improved model performance by reducing overfitting.
 [View Code on Kaggle](https://www.kaggle.com/code/silasmatamanda/ames-house-price-predictions/).
 
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
