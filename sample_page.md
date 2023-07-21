@@ -27,6 +27,6 @@
 **Stock Price Prediction Using LSTM:** Here I Used Keras to build a LSTM to accurately predict stock prices of a financial firm using historical closing prices and trading volume and visualise both the predicted price values over time and the optimal parameters for the model. This project Long-Short Term Memory (LSTM)  algorithm to make predictions. 
 [View Code on Kaggle](https://www.kaggle.com/silasmatamanda/stock-market-prediction-using-lstm/).
 
-<img src="images/df97.png?raw=true"/>
+<img src="images/df_22apple.png?raw=true"/><img src="images/df_22apple2.png?raw=true"/>
 
 
