@@ -18,13 +18,13 @@
 <img src="images/df21_confusion.png?raw=true"/><img src="images/df21_confusion2.png?raw=true"/>
 
 
-**Customer Segmentation in the US:** In this project I built a k-means model to cluster US consumers into groups. I also used principal component analysis (PCA) for data visualization, and created an interactive dashboard with Plotly Dash.
+**Customer Segmentation in the US:** In this project I built a k-means model to cluster US consumers into groups. I also used principal component analysis (PCA) for data visualization.
 [View Code on Kaggle](https://www.kaggle.com/code/silasmatamanda/us-customer-segmentation/).
 
 <img src="images/df23_cluster.png?raw=true"/>
 
 
-**Stock Price Prediction Using LSTM:** Here I Used Keras to build a LSTM to accurately predict stock prices of a financial firm using historical closing prices and trading volume and visualise both the predicted price values over time and the optimal parameters for the model. This project Long-Short Term Memory (LSTM)  algorithm to make predictions. 
+**Stock Price Prediction Using LSTM:** Here I Used Keras to build a  Long-Short Term Memory(LSTM) algorithm to accurately predict stock prices of the four tech giants (Apple, Amazon, Google, and Microsoft) using historical closing prices and trading volume over time and the optimal parameters for the model.  
 [View Code on Kaggle](https://www.kaggle.com/silasmatamanda/stock-market-prediction-using-lstm/).
 
 <img src="images/df_22apple.png?raw=true"/><img src="images/df_22apple2.png?raw=true"/>
