@@ -12,8 +12,8 @@
 <img src="images/df24_ts.png?raw=true"/>
 
 
-**Bankruptcy in Poland:** This project was all about building random forest and gradient boosting models to predict whether a company will go bankrupt. I navigated the Linux command line, addressed imbalanced data through resampling, and considered the impact of performance metrics precision and recall.
-[View Code on Kaggle](https://www.kaggle.com/code/silasmatamanda/ames-house-price-predictions/).
+**Bankruptcy in Taiwan:** This project was all about building random forest and gradient boosting models to predict whether a company will go bankrupt. I navigated the Linux command line, addressed imbalanced data through resampling, and considered the impact of performance metrics precision and recall.
+[View Code on Kaggle](https://www.kaggle.com/silasmatamanda/bankruptcy-in-taiwan/).
 
 <img src="images/df21_confusion.png?raw=true"/><img src="images/df21_confusion2.png?raw=true"/>
 
