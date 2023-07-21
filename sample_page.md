@@ -24,38 +24,9 @@
 <img src="images/df23_cluster.png?raw=true"/>
 
 
-**Stock Price Prediction Using LSTM:** Here I Used Keras to build a LSTM to accurately predict stock prices of a financial firm using historical closing price and trading volume and visualize both the predicted price values over time and the optimal parameters for the model. This project utilized Deep Learning models, Long-Short Term Memory (LSTM) and Neural Network algorithm, to make predictions. 
-[View Code on Kaggle](https://www.kaggle.com/code/silasmatamanda/ames-house-price-predictions/).
+**Stock Price Prediction Using LSTM:** Here I Used Keras to build a LSTM to accurately predict stock prices of a financial firm using historical closing prices and trading volume and visualise both the predicted price values over time and the optimal parameters for the model. This project Long-Short Term Memory (LSTM)  algorithm to make predictions. 
+[View Code on Kaggle](https://www.kaggle.com/silasmatamanda/stock-market-prediction-using-lstm/).
 
 <img src="images/df97.png?raw=true"/>
 
 
-
-
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
