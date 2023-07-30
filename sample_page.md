@@ -33,4 +33,4 @@
 **Earthquake Damage in Nepal:** This one was about building logistic regression and decision tree models to predict earthquake damage to buildings. It involved  revealing the biases in data that can lead to discrimination.
 [View Code on Kaggle](https://www.kaggle.com/silasmatamanda/earthquake-damage-in-nepal/).
 
-<img src="images/df23_cluster.png?raw=true"/>
+<img src="images/df_odds.png?raw=true"/>
